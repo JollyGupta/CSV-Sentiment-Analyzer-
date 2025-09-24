@@ -1,0 +1,5 @@
+review,summary,title,comments,rating,helpful_votes,review_sentiment_label,review_sentiment_score,summary_sentiment_label,summary_sentiment_score,title_sentiment_label,title_sentiment_score,comments_sentiment_label,comments_sentiment_score
+I love this product!,Great!,Product A,Will buy again.,5,10,POSITIVE,0.9989147186279297,POSITIVE,0.9985964894294739,POSITIVE,0.9612674713134766,POSITIVE,0.9983246922492981
+Not worth the price.,Bad experience.,Product B,Never again.,2,1,NEGATIVE,0.9994804263114929,NEGATIVE,0.9994502663612366,NEGATIVE,0.9008327126502991,NEGATIVE,0.9950788021087646
+Amazing quality and fast delivery!,Excellent service.,Product C,Highly recommended.,5,7,POSITIVE,0.9988958835601807,POSITIVE,0.9987461566925049,NEGATIVE,0.9527811408042908,POSITIVE,0.9987754225730896
+"Poor packaging, arrived late.",Disappointing.,Product D,Could be better.,3,2,NEGATIVE,0.9994999170303345,NEGATIVE,0.9994887113571167,NEGATIVE,0.9858523607254028,NEGATIVE,0.9945161938667297
